@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "save": "Save"
+  },
+  "languages": {
+    "en": "English",
+    "ko": "Korean",
+    "zh": "Chinese"
+  }
+}
